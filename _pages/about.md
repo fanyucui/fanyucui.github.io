@@ -6,7 +6,7 @@ subtitle: <a href='#'>Affiliations</a>. Address. fcui@uw.edu. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: f-letter.png
   image_circular: false # crops the image to make it circular
   address: >
     <p>555 your office number</p>
