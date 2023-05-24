@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=https://www.publichealth.columbia.edu/academics/departments/biostatistics>Affiliations</a>. Address. fcui@uw.edu. Moto. Etc.
+subtitle: Ph.D. Student in the Biostatistics Department at Columbia University <a href=https://www.publichealth.columbia.edu/academics/departments/biostatistics>Affiliations</a>. fcui@uw.edu. 
 
 profile:
   align: right
-  image: f-letter.png
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>fcui@uw.edu</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
