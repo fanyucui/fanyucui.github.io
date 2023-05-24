@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Ph.D. Student in the Biostatistics Department at Columbia University <a href=https://www.publichealth.columbia.edu/academics/departments/biostatistics>Affiliations</a>. fcui@uw.edu. 
+subtitle: 
 
 profile:
   align: right
@@ -16,6 +16,8 @@ latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+
+I am a Ph.D. Student in the Biostatistics Department at Columbia University. Before Columbia, I was fortunate to be advised by Carlos Cinelli and received my M.S. in Statistics at the University of Washing, Seattle. I 
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
