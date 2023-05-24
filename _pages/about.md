@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. fcui@uw.edu. Moto. Etc.
+subtitle: <a href=https://www.publichealth.columbia.edu/academics/departments/biostatistics>Affiliations</a>. Address. fcui@uw.edu. Moto. Etc.
 
 profile:
   align: right
