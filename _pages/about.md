@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. Student in the Biostatistics Department at Columbia University. Before Columbia, I was fortunate to be advised by Carlos Cinelli and received my M.S. in Statistics at the University of Washing, Seattle. I 
+I am a Ph.D. Student in the Biostatistics Department at Columbia University. Prior to this, I was fortunate to be advised by Carlos Cinelli and received my M.S. in Statistics at the University of Washing, Seattle. I was also fortunate to be mentored by Kimberly Sellers and earned my B.A. in Mathematics and Economics at Georgetown University.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
