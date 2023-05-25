@@ -153,7 +153,7 @@
     
 
     <!-- Fallback to the original file -->
-    <img src="/assets/img/me.jpg" class="img-fluid z-depth-1 rounded-circle" width="auto" height="auto" alt="me.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
+    <img src="/assets/img/me.jpg" class="img-fluid z-depth-1 rounded" width="auto" height="auto" alt="me.jpg" onerror="this.onerror=null; $('.responsive-img-srcset').remove();">
 
   </picture>
 
@@ -166,7 +166,7 @@
           </div>
 
           <div class="clearfix">
-            <p>I am a Ph.D. Student in the Biostatistics Department at Columbia University. Prior to this, I was fortunate to be advised by <a href="https://carloscinelli.com/" rel="external nofollow noopener" target="_blank">Carlos Cinelli</a> and received my M.S. in Statistics at the University of Washington, Seattle. I was also fortunate to be mentored by Kimberly Sellers and earned my B.A. in Mathematics and Economics at Georgetown University.</p>
+            <p>I am a Ph.D. Student in the Biostatistics Department at Columbia University. Prior to this, I was fortunate to be advised by <a href="https://carloscinelli.com/" rel="external nofollow noopener" target="_blank">Carlos Cinelli</a> and received my M.S. in Statistics at the University of Washington, Seattle. I was also fortunate to be mentored by <a href="http://www.kimflaggsellers.com" rel="external nofollow noopener" target="_blank">Kimberly Sellers</a> and earned my B.A. in Mathematics and Economics at Georgetown University.</p>
 
 <p>Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing <code class="language-plaintext highlighter-rouge">profile</code> property of the YAML header of your <code class="language-plaintext highlighter-rouge">_pages/about.md</code>. Edit <code class="language-plaintext highlighter-rouge">_bibliography/papers.bib</code> and Jekyll will render your <a href="/al-folio/publications/">publications page</a> automatically.</p>
 
@@ -233,7 +233,80 @@
           <!-- Selected papers -->
           <h2><a href="/publications/" style="color: inherit;">selected publications</a></h2>
           <div class="publications">
-            <ol class="bibliography"><li>
+            <ol class="bibliography">
+<li>
+<!-- _layouts/bib.html -->
+      <div class="row">
+        <div class="col-sm-2 abbr"><abbr class="badge">JStatDistribApp</abbr></div>
+
+        <!-- Entry bib key -->
+        <div id="sellers2021" class="col-sm-8">
+        <!-- Title -->
+        <div class="title">A flexible univariate moving average time-series model for dispersed count data</div>
+        <!-- Author -->
+        <div class="author">
+        
+
+        Kimberly F Sellers, Ali Arab, Sean Melville, and
+          <span class="more-authors" title="click to view 1 more author" onclick="
+                var element = $(this);
+                element.attr('title', '');
+                var more_authors_text = element.text() == '1 more author' ? 'Fanyu Cui' : '1 more author';
+                var cursorPosition = 0;
+                var textAdder = setInterval(function(){
+                  element.text(more_authors_text.substring(0, cursorPosition + 1));
+                  if (++cursorPosition == more_authors_text.length){
+                    clearInterval(textAdder);
+                  }
+              }, '10');
+              ">1 more author</span>
+</div>
+
+        <!-- Journal/Book title and date -->
+        
+        
+        <div class="periodical">
+          <em>Journal of Statistical Distributions and Applications</em>, 2021
+        </div>
+        <div class="periodical">
+          
+        </div>
+
+          <!-- Links/Buttons -->
+          <div class="links">
+            <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
+            <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+            <a href="https://jsdajournal.springeropen.com/articles/10.1186/s40488-021-00115-2" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">HTML</a>
+            <a href="https://jsdajournal.springeropen.com/counter/pdf/10.1186/s40488-021-00115-2.pdf" class="btn btn-sm z-depth-0" role="button" rel="external nofollow noopener" target="_blank">PDF</a>
+          </div>
+          
+          <div class="badges">
+            <span class="altmetric-embed" data-hide-no-mentions="true" data-hide-less-than="15" data-badge-type="2" data-badge-popover="right" data-doi="https://doi.org/10.1186/s40488-021-00115-2"></span>
+              <span class="__dimensions_badge_embed__" data-doi="https://doi.org/10.1186/s40488-021-00115-2" data-hide-zero-citations="true" data-style="small_rectangle" data-legend="hover-right" style="margin-bottom: 3px;"></span>
+          </div>
+
+          <!-- Hidden abstract block -->
+          <div class="abstract hidden">
+            <p>Al-Osh and Alzaid (1988) consider a Poisson moving average (PMA) model to describe the relation among integer-valued time series data; this model, however, is constrained by the underlying equi-dispersion assumption for count data (i.e., that the variance and the mean equal). This work instead introduces a flexible integer-valued moving average model for count data that contain over- or under-dispersion via the Conway-Maxwell-Poisson (CMP) distribution and related distributions. This first-order sum-of-Conway-Maxwell-Poissons moving average (SCMPMA(1)) model offers a generalizable construct that includes the PMA (among others) as a special case. We highlight the SCMPMA model properties and illustrate its flexibility via simulated data examples.</p>
+          </div>
+<!-- Hidden bibtex block -->
+          <div class="bibtex hidden">
+            <figure class="highlight"><pre><code class="language-bibtex" data-lang="bibtex"><span class="nc">@article</span><span class="p">{</span><span class="nl">sellers2021</span><span class="p">,</span>
+  <span class="na">title</span> <span class="p">=</span> <span class="s">{A flexible univariate moving average time-series model for dispersed count data}</span><span class="p">,</span>
+  <span class="na">author</span> <span class="p">=</span> <span class="s">{Sellers, Kimberly F and Arab, Ali and Melville, Sean and Cui, Fanyu}</span><span class="p">,</span>
+  <span class="na">journal</span> <span class="p">=</span> <span class="s">{Journal of Statistical Distributions and Applications}</span><span class="p">,</span>
+  <span class="na">volume</span> <span class="p">=</span> <span class="s">{8}</span><span class="p">,</span>
+  <span class="na">issue</span> <span class="p">=</span> <span class="s">{1}</span><span class="p">,</span>
+  <span class="na">pages</span> <span class="p">=</span> <span class="s">{1--12}</span><span class="p">,</span>
+  <span class="na">year</span> <span class="p">=</span> <span class="s">{2021}</span><span class="p">,</span>
+  <span class="na">publisher</span> <span class="p">=</span> <span class="s">{SpringerOpen}</span><span class="p">,</span>
+  <span class="na">doi</span> <span class="p">=</span> <span class="s">{https://doi.org/10.1186/s40488-021-00115-2}</span><span class="p">,</span>
+<span class="p">}</span></code></pre></figure>
+          </div>
+        </div>
+      </div>
+</li>
+<li>
 <!-- _layouts/bib.html -->
       <div class="row">
         <div class="col-sm-2 abbr"><abbr class="badge"><a href="https://journals.aps.org/" rel="external nofollow noopener" target="_blank">PhysRev</a></abbr></div>
@@ -277,7 +350,8 @@
           </div>
         </div>
       </div>
-</li></ol>
+</li>
+</ol>
           </div>
 
 
