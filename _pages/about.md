@@ -18,3 +18,5 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I am a Ph.D. Student in the Biostatistics Department at Columbia University. Prior to this, I was fortunate to be advised by [Carlos Cinelli](https://carloscinelli.com/) and received my M.S. in Statistics at the University of Washington, Seattle. I was also fortunate to be mentored by [Kimberly Sellers](http://www.kimflaggsellers.com) and earned my B.A. in Mathematics and Economics at Georgetown University.
+
+My research interests include causal inference, causal discovery, and applications to biomedical sciences such as statistical genetics and precision medicine.
