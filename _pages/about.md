@@ -9,7 +9,7 @@ profile:
   image: me.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Email: fcui_at_uw.edu</p>
+    <p>Email: fc2754_at_cumc.columbia.edu</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
