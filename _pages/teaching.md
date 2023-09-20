@@ -7,6 +7,9 @@ nav: true
 nav_order: 5
 ---
 
+**Columbia University**
+- Applied Regression II, Teaching Assistant, Fall 2023 
+
 **University of Washington**
 - Statistical Methods in Engineering and Science, Grader, Autumn 2021 
 
