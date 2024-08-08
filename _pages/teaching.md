@@ -9,7 +9,7 @@ nav_order: 5
 
 **Columbia University**
 - Statistical Inference, Teaching Assistant, Spring 2024 
-- Applied Regression II, Teaching Assistant, Fall 2023 
+- Applied Regression II, Teaching Assistant, Fall 2023/2024
 
 **University of Washington**
 - Statistical Methods in Engineering and Science, Grader, Autumn 2021 
